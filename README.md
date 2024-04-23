@@ -1,2 +1,2 @@
 # Script-magento-Logitech
-Novos recursos do tema magneto Logitech
+Novos recursos do tema magento Logitech
